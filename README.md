@@ -1,8 +1,10 @@
 ### Hi there 👋
 - I am an aspiring Data Scientist focused on Deep Learning & Computer Vision Applications
 
+- Check out my research publication: https://dl.acm.org/doi/10.1145/3431804
 - Check out my website: https://faizanahmed.me/
 - Check out my club's repositories: https://github.com/SJUSATA
+
 
 <!--
 **faizancodes/faizancodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
