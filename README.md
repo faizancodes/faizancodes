@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I am an aspiring Data Scientist focused on Deep Learning & Computer Vision Applications
+- I am an aspiring Data Scientist focused on Quantitative Finance, Deep Learning, & Computer Vision Applications
 
 - Check out my research publication: https://dl.acm.org/doi/10.1145/3431804
 - Check out my website: https://faizanahmed.me/
