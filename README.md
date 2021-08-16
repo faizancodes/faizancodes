@@ -3,7 +3,7 @@
 
 - Check out my research publication: https://dl.acm.org/doi/10.1145/3431804
 - Check out my website: https://faizanahmed.me/
-- Check out my club's repositories: https://github.com/SJUSATA
+- Check out my club's repositories: https://github.com/SJUACM
 
 
 <!--
