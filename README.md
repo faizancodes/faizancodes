@@ -1,6 +1,8 @@
 ### Hi there 👋
 - I am an aspiring Software Engineer / Data Scientist focused on Quantitative Finance, Machine Learning/Deep Learning, & Computer Vision Applications
 
+- I've interned at Bloomberg as a Global Data Analyst, and at Amazon as a Business Intelligence Engineer where I worked on a large-scale machine learning application
+
 - Check out my research publication: https://dl.acm.org/doi/10.1145/3431804
 
 - Check out my club's repositories: https://github.com/SJUACM
