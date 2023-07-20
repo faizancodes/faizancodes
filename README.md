@@ -1,9 +1,9 @@
 ### Hi there 👋
-- I am an aspiring Software Engineer / Data Scientist focused on Quantitative Finance, Machine Learning/Deep Learning, & Computer Vision Applications
+- I am the Co-Founder of [Headstarter](https://www.theheadstarter.com/), building an AI Professor that learns how you learn, teaches you curriculum based on your skill level, and creates social pressure for accountability and completion. Tackling [Bloom's Two Sigma problem](https://web.mit.edu/5.95/readings/bloom-two-sigma.pdf) by providing 1 to 1 and mastery learning at scale. 
 
-- I've interned at Bloomberg as a Global Data Analyst, and at Amazon as a Business Intelligence Engineer where I worked on a large-scale machine learning application
+- Previously: ML @ Amazon & Data Analytics @ Bloomberg LP
 
-- Check out my research publication: https://dl.acm.org/doi/10.1145/3431804
+- Published [A Deep Learning Approach for COVID-19 & Viral Pneumonia Screening with X-Ray Images](https://dl.acm.org/doi/10.1145/3431804), cited 22x
 
 - Check out my club's repositories: https://github.com/SJUACM
 
