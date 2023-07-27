@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I am the Co-Founder of [Headstarter](https://www.theheadstarter.com/), building an AI Professor that learns how you learn, teaches you curriculum based on your skill level, and creates social pressure for accountability and completion. Tackling [Bloom's Two Sigma problem](https://web.mit.edu/5.95/readings/bloom-two-sigma.pdf) by providing 1 to 1 and mastery learning at scale. 
+- I am the Co-Founder of [Headstarter](https://www.theheadstarter.com/), building a live 1 on 1 AI Professor that learns how you learn, teaches you curriculum based on your skill level, and creates social pressure for accountability and completion. Tackling [Bloom's Two Sigma problem](https://web.mit.edu/5.95/readings/bloom-two-sigma.pdf) by providing 1 to 1 and mastery learning at scale. 
 
 - Previously: ML @ Amazon & Data Analytics @ Bloomberg LP
 
