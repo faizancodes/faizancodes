@@ -1,5 +1,7 @@
 ### Hi there 👋
-- I am the Co-Founder of [Headstarter](https://www.theheadstarter.com/), building a live 1 on 1 AI Professor that learns how you learn, teaches you curriculum based on your skill level, and creates social pressure for accountability and completion. Tackling [Bloom's Two Sigma problem](https://web.mit.edu/5.95/readings/bloom-two-sigma.pdf) by providing 1 to 1 and mastery learning at scale. 
+- I am the Co-Founder of [Headstarter](https://www.theheadstarter.com/), building the #1 community for Software Engineers
+
+- Built an [AI interviewer](https://app.headstarter.co/) to conduct end-to-end Software Engineering interviews and now building an [AI peer programmer](https://code.headstarter.co/) to provide 1 on 1 and mastery learning of full-stack & AI development at scale 
 
 - Previously: ML @ Amazon & Data Analytics @ Bloomberg LP
 
@@ -7,7 +9,11 @@
 
 - Check out [My Journey to Big Tech](https://www.sjuacm.com/blog/FaizansJourneytoBigTech)
 
-- Check out my club's repositories: https://github.com/SJUACM
+- Check out some of my side projects:
+    - [Personal Site](https://www.faizan.ai/)
+    - [WebChat - ChatGPT Search & Perplexity Clone](https://www.webchat.so/)
+    - [GitHub Repo Grader](https://repo-grader.vercel.app/)
+    - [Career Capital Calculator](https://career-capital.vercel.app/)
 
 
 <!--
