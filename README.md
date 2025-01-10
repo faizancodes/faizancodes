@@ -10,10 +10,10 @@
 - Check out [My Journey to Big Tech](https://www.sjuacm.com/blog/FaizansJourneytoBigTech)
 
 - Check out some of my side projects:
-    - [Personal Site](https://www.faizan.ai/)
-    - [WebChat - ChatGPT Search & Perplexity Clone](https://www.webchat.so/)
-    - [GitHub Repo Grader](https://repo-grader.vercel.app/)
-    - [Career Capital Calculator](https://career-capital.vercel.app/)
+    - [LLM-Chain](https://www.npmjs.com/package/llm-chain) - NPM package for a unified interface for multiple LLM providers
+    - [WebChat](https://www.webchat.so/) - ChatGPT Search & Perplexity Clone
+    - [GitHub Repo Grader](https://repo-grader.vercel.app/) - Get feedback on code quality given a GitHub repo link
+    - [Career Capital Calculator](https://career-capital.vercel.app/) - Get a score from 0-100 on how you compare against a Senior Software Engineer
 
 
 <!--
