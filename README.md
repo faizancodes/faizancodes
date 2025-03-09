@@ -5,7 +5,7 @@
 
 - Previously: ML @ Amazon & Data Analytics @ Bloomberg LP
 
-- Published [A Deep Learning Approach for COVID-19 & Viral Pneumonia Screening with X-Ray Images](https://dl.acm.org/doi/10.1145/3431804), cited 22x
+- Published [A Deep Learning Approach for COVID-19 & Viral Pneumonia Screening with X-Ray Images](https://dl.acm.org/doi/10.1145/3431804), cited [29x](https://scholar.google.com/citations?user=JSKv-KMAAAAJ&hl=en&oi=sra)
 
 - Check out [My Journey to Big Tech](https://www.sjuacm.com/blog/my-journey-to-big-tech)
 
