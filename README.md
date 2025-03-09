@@ -7,7 +7,7 @@
 
 - Published [A Deep Learning Approach for COVID-19 & Viral Pneumonia Screening with X-Ray Images](https://dl.acm.org/doi/10.1145/3431804), cited 22x
 
-- Check out [My Journey to Big Tech](https://www.sjuacm.com/blog/FaizansJourneytoBigTech)
+- Check out [My Journey to Big Tech](https://www.sjuacm.com/blog/my-journey-to-big-tech)
 
 - Check out some of my side projects:
     - [LLM-Chain](https://www.npmjs.com/package/llm-chain) - NPM package for a unified interface for multiple LLM providers
